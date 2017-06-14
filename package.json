@@ -1,0 +1,20 @@
+{
+  "name": "testing-gg",
+  "version": "1.4.2-6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "presth": "echo presth",
+    "sth": "echo sth",
+    "poststh": "echo poststh",
+    "test": "echo testing"
+  },
+  "author": "Pawel Rafalko <dev.rafalko@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

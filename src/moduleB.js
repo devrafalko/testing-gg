@@ -1,0 +1,1 @@
+comsole.log('some module B')

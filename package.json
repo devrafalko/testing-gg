@@ -1,6 +1,6 @@
 {
   "name": "testing-gg",
-  "version": "1.4.2-6",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "jquery": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrafalko/testing-gg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devrafalko/testing-gg/issues"
+  },
+  "homepage": "https://github.com/devrafalko/testing-gg#readme"
 }

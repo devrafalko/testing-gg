@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "presth": "echo presth",
-    "sth": "echo sth",
-    "poststh": "echo poststh",
-    "test": "echo testing"
   },
   "author": "Pawel Rafalko <dev.rafalko@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "cross-env": "^5.0.1",
     "lodash": "^4.17.4"
   },
   "dependencies": {
@@ -23,6 +20,9 @@
   },
   "bugs": {
     "url": "https://github.com/devrafalko/testing-gg/issues"
+  },
+  "config": {
+	"foo":"bar"
   },
   "homepage": "https://github.com/devrafalko/testing-gg#readme"
 }

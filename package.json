@@ -1,10 +1,9 @@
 {
   "name": "testing-gg",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Pawel Rafalko <dev.rafalko@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -22,7 +21,7 @@
     "url": "https://github.com/devrafalko/testing-gg/issues"
   },
   "config": {
-	"foo":"bar"
+    "foo": "bar"
   },
   "homepage": "https://github.com/devrafalko/testing-gg#readme"
 }
